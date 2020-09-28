@@ -11,3 +11,10 @@
     按照注释写了凹凸纹理的计算方返回值为凹凸处理之后的法向量
 ## displacement_fragment_shader ##
     在bump_fragment_shader的基础上增加了顶点位移然后用blinn phong模型计算了三种光。
+
+
+![image](https://github.com/ZBlueLine/SoftRenderDemo/blob/master/images/bump.png)
+![image](https://github.com/ZBlueLine/SoftRenderDemo/blob/master/images/displacement.png)
+![image](https://github.com/ZBlueLine/SoftRenderDemo/blob/master/images/normal.png)
+![image](https://github.com/ZBlueLine/SoftRenderDemo/blob/master/images/phong.png)
+![image](https://github.com/ZBlueLine/SoftRenderDemo/blob/master/images/texture.png)
